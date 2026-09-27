@@ -1,0 +1,5 @@
+streamlit>=1.64.0
+autogen-agentchat>=0.7.5
+autogen-ext[openai]>=0.7.5
+ddgs>=9.16.0
+python-dotenv>=1.0
